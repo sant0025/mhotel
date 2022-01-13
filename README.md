@@ -1,0 +1,2 @@
+# mhotel
+Simple website for 🏨
